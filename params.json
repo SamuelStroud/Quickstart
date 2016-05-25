@@ -1,6 +1,6 @@
 {
   "name": "Quickstart",
   "tagline": "A Framework for Themes",
-  "body": "# Quickstart - A Framework for Themes\r\nAs the tagline suggests, Quickstart is a Framework for themes. Specifically Tumblr Themes, but it can be applied to anything, really.\r\nQuickstart was born from the need to style elements of a theme quickly and efficiently, not wasting time on things that have been styled\r\ntime and time again. \r\n\r\n## Where is it, then?\r\nQuickstart hasn't actually released yet. But it will, in the coming weeks. It's currently in the process of being tested, but once that's\r\ndone, it will be up and running here on GitHub! \r\n\r\nStay tuned for more...\r\n",
+  "body": "# Quickstart - A Framework for Themes\r\nAs the tagline suggests, Quickstart is a Framework for themes. Specifically Tumblr Themes, but it can be applied to anything, really.\r\nQuickstart was born from the need to style elements of a theme quickly and efficiently, not wasting time on things that have been styled\r\ntime and time again. \r\n\r\n## Beta 1.0\r\nQuickstart is currently in beta. It can still be downloaded and used on projects, but keep in mind that there may be some bugs and/or\r\nunpredictable occurences.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
